@@ -1,0 +1,945 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "0-0",
+    "children" : [ {
+      "name" : "\"before all\" hook",
+      "uid" : "b1ee8723a82212f8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590000219754,
+        "stop" : 1590000220291,
+        "duration" : 537
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "8bf169a336d83a69",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589998293176,
+        "stop" : 1589998293425,
+        "duration" : 249
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "db917d92d0479d1a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589993767439,
+        "stop" : 1589993767869,
+        "duration" : 430
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "6af924c2df757196",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589998648813,
+        "stop" : 1589998649113,
+        "duration" : 300
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "9873aa86d2415fe2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589994995882,
+        "stop" : 1589994996288,
+        "duration" : 406
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "6d3eb5e233d9e86d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1589998596079,
+        "stop" : 1589998597763,
+        "duration" : 1684
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "ff775a19c4197866",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589990741654,
+        "stop" : 1589990746441,
+        "duration" : 4787
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "785fb982b426f539",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589990463626,
+        "stop" : 1589990463940,
+        "duration" : 314
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "aa51f900ab509f05",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589998649114,
+        "stop" : 1589998650962,
+        "duration" : 1848
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "525b64adec812d77",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1589998264627,
+        "stop" : 1589998265935,
+        "duration" : 1308
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "e58d0ff29e86f1d0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589986736806,
+        "stop" : 1589986737162,
+        "duration" : 356
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "e5b00c9a8440b0b6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1590000220291,
+        "stop" : 1590000222519,
+        "duration" : 2228
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "a059be580e3c3216",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589991657346,
+        "stop" : 1589991657749,
+        "duration" : 403
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "a0a64ebbc1ea61d9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589998439903,
+        "stop" : 1589998440153,
+        "duration" : 250
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "e1ad2af202933e32",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589995329621,
+        "stop" : 1589995331587,
+        "duration" : 1966
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "65b9d8bf6e71c31a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589990597081,
+        "stop" : 1589990597381,
+        "duration" : 300
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "421c2902a98aa9ca",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589998595792,
+        "stop" : 1589998596079,
+        "duration" : 287
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "29688230e6c19c13",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589995112305,
+        "stop" : 1589995114021,
+        "duration" : 1716
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "b3a1bf9e8e1241ba",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589998487461,
+        "stop" : 1589998489224,
+        "duration" : 1763
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "82b182e5815ae031",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589995158514,
+        "stop" : 1589995158872,
+        "duration" : 358
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "3ba5e3fddcf49d2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1589998338116,
+        "stop" : 1589998339656,
+        "duration" : 1540
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "8fee9a6f62d39f83",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589994829905,
+        "stop" : 1589994831724,
+        "duration" : 1819
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "4ae948047a32d1d6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1589995079763,
+        "stop" : 1589995091006,
+        "duration" : 11243
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "3c9b0342fb62a9f4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589998293425,
+        "stop" : 1589998295172,
+        "duration" : 1747
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "d63b89406ab1fabd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1589993249010,
+        "stop" : 1589993249040,
+        "duration" : 30
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "85f66eb695ff25f8",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589990741294,
+        "stop" : 1589990741654,
+        "duration" : 360
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "ab92c50635bb4ad",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589993501110,
+        "stop" : 1589993502954,
+        "duration" : 1844
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "e3b4f124addc1eb",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589990554830,
+        "stop" : 1589990555244,
+        "duration" : 414
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "2265917dda314151",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589986667778,
+        "stop" : 1589986669364,
+        "duration" : 1586
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "d160406a06b2fa85",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589995322335,
+        "stop" : 1589995324303,
+        "duration" : 1968
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "34050db9b0eb9e69",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589993500541,
+        "stop" : 1589993501110,
+        "duration" : 569
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "7ce0ae21eb4f0d28",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589986703572,
+        "stop" : 1589986703888,
+        "duration" : 316
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "12f67b63dfb02e28",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589990418167,
+        "stop" : 1589990419895,
+        "duration" : 1728
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "a3e9a377dc23ea56",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589994829493,
+        "stop" : 1589994829904,
+        "duration" : 411
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "cc3f8cca09ffd633",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589998462855,
+        "stop" : 1589998464505,
+        "duration" : 1650
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "7e0c9911a424cbcf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589995112011,
+        "stop" : 1589995112305,
+        "duration" : 294
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "fbeef77933d2b30e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589998462633,
+        "stop" : 1589998462855,
+        "duration" : 222
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "4f742c79a112ceae",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589986392102,
+        "stop" : 1589986393813,
+        "duration" : 1711
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "1dd5d286f5ba4161",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589986737162,
+        "stop" : 1589986739308,
+        "duration" : 2146
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "5b8f81288a1022bc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589998485885,
+        "stop" : 1589998487461,
+        "duration" : 1576
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "3a9e2dbba7eddd40",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589998264282,
+        "stop" : 1589998264627,
+        "duration" : 345
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "aa7f5e6f264a740e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589992350910,
+        "stop" : 1589992352597,
+        "duration" : 1687
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "266e0bde9124519f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589993767869,
+        "stop" : 1589993769499,
+        "duration" : 1630
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "765d3348e149abd2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589995321954,
+        "stop" : 1589995322335,
+        "duration" : 381
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "85718aabf8a5b9c9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589998406393,
+        "stop" : 1589998406693,
+        "duration" : 300
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "a438cb0288ba412",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1589991657750,
+        "stop" : 1589991657792,
+        "duration" : 42
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "3bd8065ff4c4aa47",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589990463941,
+        "stop" : 1589990468664,
+        "duration" : 4723
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "dc96bdec4efe258c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589998337850,
+        "stop" : 1589998338116,
+        "duration" : 266
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "909d0083c1045093",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589992350527,
+        "stop" : 1589992350910,
+        "duration" : 383
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "32e24f70756bc8ed",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589986667425,
+        "stop" : 1589986667777,
+        "duration" : 352
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "8f88212a58f4045f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589990597381,
+        "stop" : 1589990602155,
+        "duration" : 4774
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "4ea9041131702f9b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589994365385,
+        "stop" : 1589994365703,
+        "duration" : 318
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "6d2e1dadfd8bb95f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589986610479,
+        "stop" : 1589986612107,
+        "duration" : 1628
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "35ed75e2b3996341",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589990555244,
+        "stop" : 1589990560122,
+        "duration" : 4878
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "d9320f9f5cc037f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589995329323,
+        "stop" : 1589995329620,
+        "duration" : 297
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "60dc7133e4e556",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589990698651,
+        "stop" : 1589990703265,
+        "duration" : 4614
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "80f45af3bbfd3b2a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589986703889,
+        "stop" : 1589986705589,
+        "duration" : 1700
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "ac53a1ff71aa716a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589990698348,
+        "stop" : 1589990698651,
+        "duration" : 303
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "a7acea3ed427eb20",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589993248674,
+        "stop" : 1589993249010,
+        "duration" : 336
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "4cb1c628ada8c150",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589995079429,
+        "stop" : 1589995079763,
+        "duration" : 334
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "f6f6706a4faf813c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589986391635,
+        "stop" : 1589986392101,
+        "duration" : 466
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "5fd2f30e3fac4af2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589995158872,
+        "stop" : 1589995160795,
+        "duration" : 1923
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "20be366eeffaac6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589986610211,
+        "stop" : 1589986610478,
+        "duration" : 267
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "16bd7cbad25ff629",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "failed",
+      "time" : {
+        "start" : 1589998406693,
+        "stop" : 1589998407980,
+        "duration" : 1287
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "2088b80b1b54da6c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589995004708,
+        "stop" : 1589995005004,
+        "duration" : 296
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "4858a0c3d4afba0f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589998440153,
+        "stop" : 1589998441917,
+        "duration" : 1764
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "e8e9db8f33ebf0ed",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589994996289,
+        "stop" : 1589994998340,
+        "duration" : 2051
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "cb7c1b6691b5787f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589995005004,
+        "stop" : 1589995007084,
+        "duration" : 2080
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "2fee71595889fe76",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589990435545,
+        "stop" : 1589990437113,
+        "duration" : 1568
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "4cbb68462aa9281f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589990435290,
+        "stop" : 1589990435545,
+        "duration" : 255
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "\"before all\" hook",
+      "uid" : "f61732611b12692e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1589990417729,
+        "stop" : 1589990418167,
+        "duration" : 438
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "user should be able to add and delete item from basket and proceed to checkout",
+      "uid" : "946731a6e4a54d57",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1589994365703,
+        "stop" : 1589994367030,
+        "duration" : 1327
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "516fe00eea05ad99e936fa729b55eff4"
+  } ]
+}

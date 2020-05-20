@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//div[@class=\"inventory_item\"][0]/div[3]/button"
+}

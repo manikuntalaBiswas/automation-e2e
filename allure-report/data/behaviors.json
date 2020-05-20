@@ -1,0 +1,31 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "\"before all\" hook",
+    "uid" : "b1ee8723a82212f8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1590000219754,
+      "stop" : 1590000220291,
+      "duration" : 537
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome" ]
+  }, {
+    "name" : "user should be able to add and delete item from basket and proceed to checkout",
+    "uid" : "e5b00c9a8440b0b6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1590000220291,
+      "stop" : 1590000222519,
+      "duration" : 2228
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chrome" ]
+  } ]
+}

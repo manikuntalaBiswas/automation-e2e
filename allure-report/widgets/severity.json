@@ -1,0 +1,21 @@
+[ {
+  "uid" : "b1ee8723a82212f8",
+  "name" : "\"before all\" hook",
+  "time" : {
+    "start" : 1590000219754,
+    "stop" : 1590000220291,
+    "duration" : 537
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5b00c9a8440b0b6",
+  "name" : "user should be able to add and delete item from basket and proceed to checkout",
+  "time" : {
+    "start" : 1590000220291,
+    "stop" : 1590000222519,
+    "duration" : 2228
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

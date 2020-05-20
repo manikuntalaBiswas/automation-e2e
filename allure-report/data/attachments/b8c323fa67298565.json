@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[contains(text(), 7.99)]//following-sibling::button"
+}

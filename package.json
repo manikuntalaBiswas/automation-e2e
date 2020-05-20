@@ -1,0 +1,30 @@
+{
+  "name": "tray-assessment-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tests:e2e": "wdio wdio.conf.js --spec test/specs/*.js",
+    "report:allure": "allure generate allure-results --clean && allure open"
+  },
+  "keywords": [],
+  "author": "Manikuntala Biswas",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/local-runner": "^6.1.12",
+    "@wdio/mocha-framework": "^6.1.8",
+    "@wdio/sync": "^6.1.8",
+    "chromedriver": "^81.0.0",
+    "mocha": "^6.1.4",
+    "wdio-chromedriver-service": "^6.0.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6",
+    "@babel/register": "^7.9.0",
+    "@wdio/cli": "^6.1.12",
+    "@wdio/spec-reporter": "^6.1.12",
+    "@wdio/allure-reporter": "^5.16.16"
+  }
+}
